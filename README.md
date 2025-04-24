@@ -1,5 +1,5 @@
 # Motion Planning for Car & Robotic Arm  
-A collection of ROS-based motion-planning demos implementing **A\***, **RRT** for both a wheeled vehicle 
+A collection of ROS-based motion-planning demos implementing **A\***, **RRT**, for a wheeled vehicle 
 
 ## Table of Contents
 
@@ -17,7 +17,8 @@ This repository contains algorithms for grid based motion planning using A* and 
 ## Features
 
 - **RRT Planner**: Basic sampling-based planner with `--show-tree` visualization  
-- **A\***: Optimal grid search with customizable sampler (`lattice` vs. `Halton`) 
+- **A\***: Optimal grid search with customizable sampler (`lattice` vs. `Halton`)
+- **tradeoff-analysis**: 
 
 ---
 
@@ -36,3 +37,7 @@ This repository contains algorithms for grid based motion planning using A* and 
 ### core implemention 
 take a look at the core implementation
 [**Plannning**]planning/src/planning/problems.py
+
+Initially developed for Cornell’s CS4750 Robotic Foundations course.[^0]
+[^0]: https://www.cs.cornell.edu/courses/cs5750/2024fa/
+``` :contentReference[oaicite:3]{index=0}  

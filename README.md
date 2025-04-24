@@ -36,7 +36,7 @@ This repository contains algorithms for grid based motion planning using A* and 
 
 ### core implemention 
 take a look at the core implementation
-[**Plannning**](planning/src/planning/problems.p)y
+[**Plannning**](planning/src/planning/problems.py)
 
 Initially developed for Cornell’s CS4750 Robotic Foundations course.[^0]
 [^0]: https://www.cs.cornell.edu/courses/cs5750/2024fa/

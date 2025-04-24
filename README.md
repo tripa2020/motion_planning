@@ -1,5 +1,5 @@
 # Motion Planning for Car & Robotic Arm  
-A collection of ROS-based motion-planning demos implementing **A\***, **RRT**, **RRT+Shortcut**, **Dubins-SE(2) A\***, and tradeoff analyses for both a wheeled vehicle and the Widowx250 robotic arm 
+A collection of ROS-based motion-planning demos implementing **A\***, **RRT** for both a wheeled vehicle and the Widowx250 robotic arm 
 
 ## Table of Contents
 

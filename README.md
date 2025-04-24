@@ -1,5 +1,5 @@
 # Motion Planning for Car & Robotic Arm  
-A collection of ROS-based motion-planning demos implementing **A\***, **RRT** for both a wheeled vehicle and the Widowx250 robotic arm 
+A collection of ROS-based motion-planning demos implementing **A\***, **RRT** for both a wheeled vehicle 
 
 ## Table of Contents
 
@@ -33,11 +33,6 @@ This repository contains algorithms for grid based motion planning using A* and 
 
 ---
 
-### Arm Planning (6-DOF)
-
-![Arm Environment](arm_env.png)  
-*Widowx250 planning scene in MoveIt!* :contentReference[oaicite:10]{index=10}  
----
 ### core implemention 
 take a look at the core implementation
 [**Plannning**]planning/src/planning/problems.py
